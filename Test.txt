@@ -1,0 +1,14 @@
+Points on how Twitter is tested:
+
+- Functional testing checks that users can sign in, post tweets, like, retweet, reply, and follow accounts correctly.
+- UI testing ensures the web and mobile interfaces display correctly across devices, screen sizes, and browsers.
+- API testing validates tweet, user, search, and notification endpoints for correct request and response behavior.
+- Performance testing measures how fast the platform loads timelines, search results, and notifications under heavy traffic.
+- Load and stress testing simulate many users posting and reading at the same time to check system stability.
+- Security testing helps detect issues like XSS, CSRF, SQL injection, authentication problems, and unauthorized access.
+- Regression testing makes sure new feature updates do not break existing Twitter functions.
+- Database testing verifies that user data, tweets, followers, likes, and messages are stored and retrieved correctly.
+- Accessibility testing checks keyboard navigation, screen-reader support, and readable contrast for all users.
+- Reliability testing ensures the platform remains available during high traffic events such as trending topics or breaking news.
+- Localization testing checks language support, time zones, and region-specific behavior.
+- A/B testing is used to compare different feature versions and measure user engagement and satisfaction.

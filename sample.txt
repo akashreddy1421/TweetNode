@@ -1,8 +1,0 @@
-- Twitter, now known as X, is a social media platform for sharing short posts and updates.
-- Users can follow accounts to see their posts in a personalized timeline.
-- Posts can include text, photos, videos, links, and polls.
-- Users can like, reply to, repost, and share posts.
-- Hashtags help organize posts around topics and events.
-- Search and trending topics help users discover current conversations.
-- Direct messages let users communicate privately.
-- People use Twitter to share news, opinions, entertainment, and updates from organizations and public figures.
